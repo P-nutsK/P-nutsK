@@ -5,6 +5,7 @@
 ### 私について
 ↓GitHubの活動についてわかるやつ？  
 ![https://github-readme-stats.vercel.app/api?username=P-nutsK&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=P-nutsK&theme=tokyonight)  
+![https://github-readme-stats.vercel.app/api/top-langs/?username=P-nutsK&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=P-nutsK&layout=compact&theme=tokyonight)
 | ＼ | Right align | Center align |
 |:-----------|------------:|:------------:|
 | これは？       | 表を作りたかった | 残骸です    |
