@@ -4,7 +4,7 @@
 …難しい日本語は使わなくていいよね！
 ### 私について
 ↓GitHubの活動についてわかるやつ？  
-![https://github-readme-stats.vercel.app/api?username=P-nutsK&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=P-nutsK&theme=tokyonight)  
+![https://github-readme-stats.vercel.app/api?username=P-nutsK&count_private=true&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=P-nutsK&count_private=true&show_icons=true&theme=tokyonight)  
 ![https://github-readme-stats.vercel.app/api/top-langs/?username=P-nutsK&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=P-nutsK&layout=compact&theme=tokyonight)
 | ＼ | Right align | Center align |
 |:-----------|------------:|:------------:|
